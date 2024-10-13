@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maharshi-369
+- 👋 Hi, I’m @Maharshi
               - A passionate Data Scientist with a deep enthusiasm for exploring and analyzing data to drive innovation and insights.
 - 👀 I’m interested in Data Science, Machine Learning, and Data Visualization
 - 🌱 I’m actively learning about the latest advancements in data science, including advanced machine learning algorithms,
